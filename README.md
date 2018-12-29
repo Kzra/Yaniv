@@ -20,3 +20,4 @@ The AI will not take high cards in order to complete running flushes.
 *For game instructions, when prompted to discard cards, input 'help'.*
 
 
+![Yaniv Screenshot](https://github.com/Kzra/Yaniv/blob/master/yaniv_screenshot.png)
