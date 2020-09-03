@@ -1,6 +1,5 @@
 # Yaniv 
 A version of the Israeli card game [Yaniv](https://en.wikipedia.org/wiki/Yaniv_(card_game)) programmed in Python.  
-*I programmed this during my recovery from a bike accident in autumn 2018.
 
 
 **Rules:**  
